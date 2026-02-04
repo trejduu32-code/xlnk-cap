@@ -1,6 +1,6 @@
 # CAP Worker Service | CAP 验证码服务
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/xyTom/cap-worker)
+[![Deploy to Cloudflare](https://cdn.gamer.gd/logo.svg)](https://deploy.workers.cloudflare.com/?url=https://github.com/xyTom/cap-worker)
 
 [English](#english) | [中文](#中文)
 
